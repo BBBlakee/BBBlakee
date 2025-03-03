@@ -1,5 +1,15 @@
 ### Hi there 👋 
-🔭 I’m currently working on my profile
+
+⚡ Current projects:
+  - **[Easy_POS](https://github.com/BBBlakee/Easy_POS):** Simple product calculator and my first real android app. Survived the first real life test but still in progress.
+  - **[ParkenUlm](https://github.com/ParkenUlm):** Shows the current usage of the parking garages in Ulm, Germany. Developer of the android version.
+
+
+🔭 Future projects:
+  - **Digital sheet music organizer:**
+
+🌱 Next steps for my career:
+  - Starting my master study in intelligent systems
 
 
 <!--
